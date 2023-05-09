@@ -68,3 +68,8 @@ Milestone 7: documentation
 ===
 
 (17) Document all of the API endpoints (you know, in case anyone else wants to make a custom front-end)
+
+Milestone 8: Cross-platform
+===
+
+(18) Make the app run on android, ios, and web
