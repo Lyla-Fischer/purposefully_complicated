@@ -56,12 +56,14 @@ Milestone 5: l10n
 
 (14) Translate the “hello world” string.
 
+(15) Display a localized datetime.
+
 Milestone 6: a11y
 ===
 
-(15) Make the app accessible to screen readers
+(16) Make the app accessible to screen readers
 
 Milestone 7: documentation
 ===
 
-(16) Document all of the API endpoints (you know, in case anyone else wants to make a custom front-end)
+(17) Document all of the API endpoints (you know, in case anyone else wants to make a custom front-end)
