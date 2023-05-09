@@ -73,3 +73,9 @@ Milestone 8: Cross-platform
 ===
 
 (24) Make the app run on android, ios, and web
+
+Milestone 9: Iterate!
+===
+
+(25) Add a feature and make sure nothing breaks!
+-> Specifically, allow users to specify the rate at which the light blinks
