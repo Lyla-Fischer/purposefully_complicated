@@ -48,6 +48,7 @@ Milestone 4: CRUD
 (17) Add new lights that can blink
 
 (18) Choose the color of the svg image of the light
+(18.1) Secure a user upload of a custom image.
 
 (19) Delete a blinking light
 
