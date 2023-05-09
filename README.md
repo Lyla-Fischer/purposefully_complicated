@@ -55,21 +55,21 @@ Milestone 4: CRUD
 Milestone 5: l10n
 ===
 
-(14) Translate the “hello world” string.
+(20) Translate the “hello world” string.
 
-(15) Display a localized datetime.
+(21) Display a localized datetime.
 
 Milestone 6: a11y
 ===
 
-(16) Make the app accessible to screen readers
+(22) Make the app accessible to screen readers
 
 Milestone 7: documentation
 ===
 
-(17) Document all of the API endpoints (you know, in case anyone else wants to make a custom front-end)
+(23) Document all of the API endpoints (you know, in case anyone else wants to make a custom front-end)
 
 Milestone 8: Cross-platform
 ===
 
-(18) Make the app run on android, ios, and web
+(24) Make the app run on android, ios, and web
