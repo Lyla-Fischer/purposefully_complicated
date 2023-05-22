@@ -1,5 +1,5 @@
 # purposefully_complicated
-An app that is much more complicated than it needs to be
+An app that is much more complicated than it needs to be - This was a funny plan, and I'll leave it up for humor's sake, but I don't know if/when I'm actually going to build the app.
 
 Milestone 1: Hello World
 ===
